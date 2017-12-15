@@ -1,4 +1,4 @@
-# PrivacyPolicy
-Privacy Policy for my projects where no data is collected.
+# Privacy Policy
+(Privacy Policy for my projects where no data is collected.)
 
-These projects don't collect any user data. 
+This is to inform the user that the app/website/Alexa skill they are planning on using, doesnot in any manner collect any form of data- payment info, user details etc. 
